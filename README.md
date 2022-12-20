@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saranascimento9
-- 👀 I’m interested in design, UX UI and bodybuilding
+- 👀 I’m interested in design, UX UI
 - 🌱 I’m currently learning frontend development and REACT
 - 💞️ I’m looking to collaborate on pretty web designs
 - 📫 How to reach me: saravieiradesign@gmail.com
