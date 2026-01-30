@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saranascimento9
 - 🌱 I’m currently learning frontend development and REACT
-- - 👀 I’m interested in design, UX UI
+- - 👀 I’m interested in design UI
 - 💞️ I’m looking to collaborate on pretty web designs
 - 📫 How to reach me: saravieiradesign@gmail.com
 
