@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saranascimento9
-- 🌱 I’m currently learning frontend development and REACT
+- 🌱 I’m currently learning with The Odin Project
 - - 👀 I’m interested in design UI
 - 💞️ I’m looking to collaborate on pretty web designs
 - 📫 How to reach me: saravieiradesign@gmail.com
